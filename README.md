@@ -1,5 +1,3 @@
-# RETO8
-
 # RETO8 Data Visualization
 
 Este ejercicio consiste en presentar unos datos de poblacion mundial obtenidos del World Bank ... http://data.worldbank.org/indicator/SP.POP.TOTL
